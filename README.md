@@ -3,6 +3,9 @@
 Idk what im doing here when i main photog
 
 but anyways here are some of my achievements:
+
+
+
 NYTC: Overall Champions 
 Lag and Crash 4.0: 3rd
 SAFMC 2023 participant
