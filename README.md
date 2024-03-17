@@ -5,6 +5,9 @@ Idk what im doing here when i main photog
 but anyways here are some of my achievements:
 
 
+Aided in Hack@AC
+
+
 
 NYTC: Overall Champions 
 
