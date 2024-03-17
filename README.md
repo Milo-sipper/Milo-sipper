@@ -7,7 +7,13 @@ but anyways here are some of my achievements:
 
 
 NYTC: Overall Champions 
+
+
+
 Lag and Crash 4.0: 3rd
+
+
+
 SAFMC 2023 participant
 
 i will try to get more, thanks for the encouragement
