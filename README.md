@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello
+
+Idk what im doing here when i main photog
+
+but anyways here are some of my achievements:
+NYTC: Overall Champions 
+Lag and Crash 4.0: 3rd
+SAFMC 2023 participant
+
+i will try to get more, thanks for the encouragement
+
+
 
 <!--
 **Milo-sipper/Milo-sipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
