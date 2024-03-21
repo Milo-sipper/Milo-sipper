@@ -17,7 +17,7 @@ Lag and Crash 4.0: 3rd
 
 
 
-SAFMC 2023 participant
+SAFMC 2023 and 2024 participant
 
 i will try to get more, thanks for the encouragement
 
