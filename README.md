@@ -1,6 +1,6 @@
 ### Hello
 
-Idk what im doing here when i main photog
+Idk what im doing here when I main photog
 
 but anyways here are some of my achievements:
 
@@ -21,9 +21,10 @@ Whitehacks 2024: 7th
 
 
 
-SAFMC 2023 and 2024 participant
+SAFMC 2023 Participant
 
-i will try to get more, thanks for the encouragement
+I will try to get more, thanks for the encouragement
+
 
 
 
