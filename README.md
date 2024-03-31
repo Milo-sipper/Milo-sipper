@@ -9,6 +9,10 @@ Aided in Hack@AC
 
 
 
+Aided in Standcon 2023
+
+
+
 NYTC: Overall Champions 
 
 
