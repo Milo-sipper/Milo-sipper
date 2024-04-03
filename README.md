@@ -13,7 +13,7 @@ Aided in Standcon 2023
 
 
 
-NYTC: Overall Champions 
+NYTC 2023: Overall Champions 
 
 
 
