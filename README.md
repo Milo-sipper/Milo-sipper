@@ -27,6 +27,10 @@ Whitehacks 2024: 7th
 
 SAFMC 2023 Participant
 
+
+
+SAFMC 2024: Judges Commendation
+
 I will try to get more, thanks for the encouragement
 
 
