@@ -5,7 +5,7 @@ Idk what im doing here when I main photog
 but anyways here are some of my achievements:
 
 
-Aided in Hack@AC
+Aided in Hack@AC 2024
 
 
 
