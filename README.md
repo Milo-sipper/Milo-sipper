@@ -37,7 +37,7 @@ Grey Cat the Flag 2024: Finalist, 14th place
 
 
 
-AISP merit reciepient 
+AISP merit awardee reciepient 
 
 I will try to get more, thanks for the encouragement
 
