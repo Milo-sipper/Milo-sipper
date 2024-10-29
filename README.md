@@ -37,7 +37,10 @@ Grey Cat the Flag 2024: Finalist, 14th place
 
 
 
-AISP merit awardee reciepient 
+AISP merit awardee recipient 
++ Nigel Lee award of Excellence
++ Sean Teo's award of awesomeness
+
 
 I will try to get more, thanks for the encouragement
 
