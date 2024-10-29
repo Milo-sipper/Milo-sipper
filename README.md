@@ -41,7 +41,7 @@ AISP merit awardee recipient
 
 SPECIAL AWARDS:
 + Nigel Lee award of Excellence
-+ Sean Teo's award of awesomeness
++ Sean Teo award of awesomeness
 
 
 I will try to get more, thanks for the encouragement
