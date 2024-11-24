@@ -39,6 +39,9 @@ Grey Cat the Flag 2024: Finalist, 14th place
 
 AISP merit awardee recipient 
 
+
+Blahaj CTF 2024: 2nd Overall
+
 SPECIAL AWARDS:
 + Nigel Lee award of Excellence
 + Sean Teo award of awesomeness
