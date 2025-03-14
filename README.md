@@ -1,68 +1,36 @@
-### Hello
+##### Hello
+I don't know what i'm doing on github when i main photog
 
-Idk what im doing here when I main photog
+## skills
+- ctf player 
+- cool geogger
+- forenshits main 
+- working on actually learning how to code 
 
-but anyways here are some of my achievements:
+# my ceevee
+some things i may have done during my stay at CCT 
+## Capture the flag competitions
+###### Blahaj CTF 2024: 2nd 
+###### Lag and Crash 2024: 3rd 
+###### Whitehacks 2024 / 2025: 7th & 12th respectively
+###### Grey CTF finalist, 14th place 
 
+## Drones 
+###### National Youth Tech Championship: Champions 
+###### Singapore Amazing Flying Machine Competition
+	2023: Participant 
+	2024: Judges Commendation 
+	2025: 
 
-Aided in Hack@AC 2024
+## Events that i've helped with 
+###### HACK@AC: Challenge Setter, Publicity
+###### Standcon 2023: Volunteer
 
-
-
-Aided in Standcon 2023
-
-
-
-NYTC 2023: Overall Champions 
-
-
-
-Lag and Crash 4.0: 3rd
-
-
-
-Whitehacks 2024: 7th
-
-
-
-SAFMC 2023 Participant
-
-
-
-SAFMC 2024: Judges' Commendation
-
-
-
-Grey Cat the Flag 2024: Finalist, 14th place 
-
-
-
-AISP merit awardee recipient 
-
-
-Blahaj CTF 2024: 2nd Overall
-
-SPECIAL AWARDS:
-+ Nigel Lee award of Excellence
-+ Sean Teo award of awesomeness
-
-
-I will try to get more, thanks for the encouragement
+## Awards
+###### AISP Merit Award recipient
+###### Nigel Lee & Sean Teo Award of Excellence 
+###### Singapore Youth Photography Contest: 1st
 
 
 
 
-<!--
-**Milo-sipper/Milo-sipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
