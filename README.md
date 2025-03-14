@@ -16,7 +16,7 @@ some things i may have done during my stay at CCT
 #### Grey CTF finalist, 14th place 
 
 ## Drones 
-#### National Youth Tech Championship: Champions 
+#### National Youth Tech Championship 2023: Champions 
 #### Singapore Amazing Flying Machine Competition
 	2023: Participant 
 	2024: Judges Commendation 
