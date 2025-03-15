@@ -1,5 +1,5 @@
 ### Hello
-Idon't know what i'm doing on github when i main photog
+I don't know what i'm doing on github when i main photog
 
 ## skills
 - ctf player 
