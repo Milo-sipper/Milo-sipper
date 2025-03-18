@@ -17,7 +17,7 @@ some things i may have done during my stay at CCT
 
 ## Drones 
 #### National Youth Tech Championship 2023: Champions 
-#### Singapore Amazing Flying Machine Competition
+#### Singapore Amazing Flying Machine Competition (Category E Swarm)
 	2023: Participant 
 	2024: Judges' Commendation 
 	2025: 
