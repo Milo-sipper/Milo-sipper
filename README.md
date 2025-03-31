@@ -31,7 +31,7 @@ some things i may have done during my stay at CCT
 #### Nigel Lee & Sean Teo Award of Excellence 
 #### Singapore Youth Photography Contest: 1st
 
-[![Milo-sipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milo-sipper)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
