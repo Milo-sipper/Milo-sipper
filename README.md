@@ -20,11 +20,12 @@ some things i may have done during my stay at CCT
 #### Singapore Amazing Flying Machine Competition (Category E Swarm)
 	2023: Participant 
 	2024: Judges' Commendation 
-	2025: 
+	2025: Judges' Commendation
 
 ## Events that i've helped with 
 #### HACK@AC: Challenge Setter, Publicity
 #### Standcon 2023: Volunteer
+#### Attending the Off-by-one conference 
 
 ## Awards
 #### AISP Merit Award recipient
