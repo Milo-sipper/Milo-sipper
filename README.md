@@ -25,7 +25,7 @@ some things i may have done during my stay at CCT
 ## Events that i've helped with 
 #### HACK@AC: Challenge Setter, Publicity
 #### Standcon 2023: Volunteer
-#### Attending the Off-by-one conference 
+#### Attained student sponsorhip to attend the Off-by-one conference 
 
 ## Awards
 #### AISP Merit Award recipient
