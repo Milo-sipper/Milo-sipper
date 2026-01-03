@@ -2,8 +2,8 @@
 I don't know what i'm doing on github when i main photog
 
 ## skills
-- ctf player 
-- cool geogger
+- kinda sort of maybe retired ctf player 
+- quite decent at photography
 - forenshits main 
 - working on actually learning how to code 
 
