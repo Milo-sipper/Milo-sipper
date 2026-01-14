@@ -11,6 +11,7 @@ I don't know what i'm doing on github when i main photog
 some things i may have done during my stay at CCT 
 ## Capture the flag competitions
 - Blahaj CTF 2024: 2nd 
+- Blahaj CTF 2025: Finalist
 - Lag and Crash 2024: 3rd 
 - Whitehacks 2024 / 2025: 7th & 12th respectively
 - Grey CTF finalist, 14th place 
@@ -34,6 +35,7 @@ some things i may have done during my stay at CCT
 - Nigel Lee & Sean Teo Award of Excellence 
 - Singapore Youth Photography Contest: 1st
 - National Cybersecurity Olympiad 2025: Bronze
+- Singapore Infomatics League 2025: Bronze
 
 
 
