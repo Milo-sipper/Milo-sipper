@@ -17,6 +17,7 @@ some things i may have done during my stay at CCT
 - Grey CTF finalist, 14th place 
 
 ## Freakcons
+Attained a 7 for IB HL econs 
 
 ## Drones 
 -  National Youth Tech Championship 2023: Champions 
